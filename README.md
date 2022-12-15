@@ -13,4 +13,4 @@ And it will automatically close the app for you.
 
 
 
-_Cough Cough If you fall asleep during a Zoom meeting set the time to leave the meeting to not be embarrassed_
+_Cough Cough If you want to leave meeting on time
